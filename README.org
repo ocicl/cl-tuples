@@ -1,0 +1,10 @@
+* cl-tuples
+
+Library for generating optimised vector math functions for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/johnfredcee/cl-tuples.git   |
+| commit  | 0a05602  |
+| systems | cl-tuples |
+|---------+-------------------------------------------|
+
